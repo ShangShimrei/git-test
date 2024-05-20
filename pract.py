@@ -1,4 +1,5 @@
 class BinarySearchTree:
+# This is Binary Search Tree Program
     def __init__(self,data):
         self.data = data
         self.left = None
